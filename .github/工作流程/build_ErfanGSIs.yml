@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: https://download.c.realme.com/osupdate/RMX2111_11_OTA_0310_all_JEmU4E3I6V6a.ozip
+  ROM_NAME: realme
   TZ: Asia/Shanghai
 
 jobs:
